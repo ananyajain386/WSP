@@ -1,19 +1,19 @@
 {
     "Post": [{
-        "id": 1,
-        "firstname": "ana",
-        "date": "10-09-2023",
-        "postheading": "web scraping"
+        "id": ,
+        "firstname": "",
+        "date": "",
+        "postheading": ""
       }],
     "User": [{
-        "id": 1,
-        "firstname": "ananya",
-        "lastname": "jain"
+        "id": ,
+        "firstname": "",
+        "lastname": ""
       }],
     "Comments": [{
-        "id": 1,
-        "comment": "xyz",
-        "commentby": "ram",
-        "comment_date": "03-10-2023"
+        "id": ,
+        "comment": "",
+        "commentby": "",
+        "comment_date": ""
       }]
   }
