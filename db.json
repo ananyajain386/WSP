@@ -1,19 +1,19 @@
 {
     "Post": [{
-        "id": ,
-        "firstname": "",
-        "date": "",
-        "postheading": ""
+        "id": 1,
+        "firstname": "kk",
+        "date": "ok",
+        "postheading": "km"
       }],
     "User": [{
-        "id": ,
-        "firstname": "",
-        "lastname": ""
+        "id": 3,
+        "firstname": "km",
+        "lastname": "kml"
       }],
     "Comments": [{
-        "id": ,
-        "comment": "",
-        "commentby": "",
-        "comment_date": ""
+        "id": 2,
+        "comment": "km",
+        "commentby": "ksm",
+        "comment_date": "kwm"
       }]
   }
